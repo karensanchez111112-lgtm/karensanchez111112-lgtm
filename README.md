@@ -19,8 +19,7 @@ Tools: GitHub · Visual Studio Code
 Currently learning: Programming and Web Development
 🌐 Connect with me
 
-
-📸 "Instagram" (https://www.instagram.com/agudeelo__)
+📸 "Instagram" (https://www.instagram.com/agudeelo____/)
 
 🎵 "TikTok" (https://www.tiktok.com/@karensof69) 
 
