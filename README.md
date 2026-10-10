@@ -17,6 +17,7 @@ Languages: HTML · CSS · JavaScript
 Tools: GitHub · Visual Studio Code
 
 Currently learning: Programming and Web Development
+
 🌐 Connect with me
 
 📸 "Instagram" (https://www.instagram.com/agudeelo____/)
