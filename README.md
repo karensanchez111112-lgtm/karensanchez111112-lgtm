@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Karen
 
-<!--
-**karensanchez111112-lgtm/karensanchez111112-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate student interested in technology and programming 💻
 
-Here are some ideas to get you started:
+I'm learning about web development and exploring new technologies. I enjoy being creative, learning new things, and developing my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Web Development
+🎨 Creativity and Design
+📚 Always learning
+
+---
+
+What I work with
+
+Languages: HTML · CSS · JavaScript
+
+Tools: GitHub · Visual Studio Code
+
+Currently learning: Programming and Web Development
