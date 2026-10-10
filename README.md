@@ -8,7 +8,7 @@ I'm learning about web development and exploring new technologies. I enjoy being
 🎨 Creativity and Design
 📚 Always learning
 
----
+
 
 What I work with
 
@@ -17,3 +17,15 @@ Languages: HTML · CSS · JavaScript
 Tools: GitHub · Visual Studio Code
 
 Currently learning: Programming and Web Development
+🌐 Connect with me
+
+
+📸 "Instagram" (https://www.instagram.com/agudeelo____)
+
+🎵 "TikTok" (https://www.tiktok.com/@karensof69) 
+
+
+- 🎓 Student
+- 💻 Learning web development
+- 🎨 Interested in technology and design
+- 📚 Always learning new things
